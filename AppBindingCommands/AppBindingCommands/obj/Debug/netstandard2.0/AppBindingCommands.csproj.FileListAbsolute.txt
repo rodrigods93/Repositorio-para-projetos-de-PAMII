@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.deps.json
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.dll
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\ref\AppBindingCommands.dll
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.pdb
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.dll
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\ref\AppBindingCommands.dll
+C:\Users\rodri\Desktop\Etec\3Q\PAMII\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.pdb
